@@ -14,8 +14,8 @@
           "architecture": "avr",
           "version": "1.1.13",
           "category": "Contributed",
-          "url": "https://github.com/SamMcD-S/328BB/raw/refs/heads/main/BB328.tgz",
-          "archiveFileName": "BB328.tgz",
+          "url": "https://github.com/SamMcD-S/328BB/raw/refs/heads/main/BB328.tar.gz",
+          "archiveFileName": "BB328.tar.gz",
           "checksum": 		"SHA-256:d3ef86e41749ad86125fe0fb14a451746755c68fcb204928cd18d69aefb0ef1b",
           "size": "551741",
           "help": {
